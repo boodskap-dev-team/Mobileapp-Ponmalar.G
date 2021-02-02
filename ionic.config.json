@@ -1,0 +1,7 @@
+{
+  "name": "shopping-zone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
