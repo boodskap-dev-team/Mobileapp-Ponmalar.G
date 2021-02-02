@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "shopping-zone",
+  "appName": "mobileApp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
